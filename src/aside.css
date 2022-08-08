@@ -27,9 +27,7 @@
     border-radius: 10px;
 }
 .list:hover::-webkit-scrollbar-thumb {
-    border: 5px solid #456789;
     background: #fafafa;
-    border-radius: 10px;
 }
 
 .menu {
